@@ -5,7 +5,9 @@ html {
 body{
   font-family: 'Montserrat';
 }
-
+* {
+  max-width: 100%;
+}
 .container{
   width: 100%;
   display: grid;
